@@ -1,0 +1,7 @@
+ctransformers
+faiss-cpu
+langchain==0.0.331
+pypdf	
+python-box
+sentence-transformers
+chainlit
